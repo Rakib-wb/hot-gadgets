@@ -1,0 +1,45 @@
+p{
+    color: grey;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
+.buy-now-button{
+    color: white;
+    border: none;
+    background-color: black;
+    border-radius: 5px;
+}
+.top-bottom{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.right{
+    float: right;
+    color: orange;
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: 1px 1px 20px wheat;
+}
+
+.categories{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    border-radius: 2px;
+    border-bottom: 5px solid orange;   
+}
+
+.cat_shoe{
+    margin-top: 30px;
+}
+footer{
+    text-align: center;
+}
+
+
+
+
